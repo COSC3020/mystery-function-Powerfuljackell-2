@@ -6,4 +6,4 @@ function mystery(a) {
 }
 
 
-console.log(mystery("hello"))
+console.log(mystery([1, 3, 2]))
