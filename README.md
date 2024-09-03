@@ -11,4 +11,4 @@ function mystery(a) {
     else return a[0];
 }
 ```
-The `mystery()` function returns the last element in an array / string.
+The `mystery()` function returns the highest element in an array / string.
